@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="org.tensorflow.lite.examples.digitclassifier">
+
+    <uses-sdk />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/tfe_dc_app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.DigitClassifier"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".all.activity.ZActivity"></activity>
+        <activity android:name=".all.activity.YActivity"></activity>
+        <activity android:name=".all.activity.XActivity" />
+        <activity android:name=".all.activity.WActivity" />
+        <activity android:name=".all.activity.VActivity" />
+        <activity android:name=".all.activity.UActivity" />
+        <activity android:name=".all.activity.TActivity" />
+        <activity android:name=".all.activity.SActivity" />
+        <activity android:name=".all.activity.RActivity" />
+        <activity android:name=".all.activity.QActivity" />
+        <activity android:name=".all.activity.PActivity" />
+        <activity android:name=".all.activity.OActivity" />
+        <activity android:name=".all.activity.NActivity" />
+        <activity android:name=".all.activity.MActivity" />
+        <activity android:name=".all.activity.LActivity" />
+        <activity android:name=".all.activity.KActivity" />
+        <activity android:name=".all.activity.JActivity" />
+        <activity android:name=".all.activity.IActivity" />
+        <activity android:name=".all.activity.HActivity" />
+        <activity android:name=".all.activity.GActivity" />
+        <activity android:name=".all.activity.FActivity" />
+        <activity android:name=".all.activity.EActivity" />
+        <activity android:name=".all.activity.DActivity" />
+        <activity android:name=".all.activity.CActivity" />
+        <activity android:name=".all.activity.BActivity" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--        <activity-->
+        <!--            android:name=".all.activity.ZActivity"-->
+        <!--            android:exported="true"-->
+        <!--            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">-->
+        <!--            <intent-filter>-->
+        <!--                <action android:name="android.intent.action.MAIN" />-->
+
+        <!--                <category android:name="android.intent.category.LAUNCHER" />-->
+        <!--            </intent-filter>-->
+        <!--        </activity>-->
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

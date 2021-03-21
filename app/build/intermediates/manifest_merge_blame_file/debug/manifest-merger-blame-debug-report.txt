@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.digitclassifier"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+8        android:minSdkVersion="21"
+8-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:8:5-67
+11-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:8:22-64
+12
+13    <application
+13-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:10:5-67:19
+14        android:allowBackup="true"
+14-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:11:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:12:9-43
+18        android:label="@string/tfe_dc_app_name"
+18-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:13:9-48
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:14:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:15:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme.DigitClassifier" >
+22-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:16:9-56
+23        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.ZActivity" />
+23-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:18:9-69
+23-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:18:19-57
+24        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.YActivity" />
+24-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:19:9-69
+24-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:19:19-57
+25        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.XActivity" />
+25-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:20:9-60
+25-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:20:19-57
+26        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.WActivity" />
+26-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:21:9-60
+26-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:21:19-57
+27        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.VActivity" />
+27-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:22:9-60
+27-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:22:19-57
+28        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.UActivity" />
+28-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:23:9-60
+28-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:23:19-57
+29        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.TActivity" />
+29-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:24:9-60
+29-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:24:19-57
+30        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.SActivity" />
+30-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:25:9-60
+30-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:25:19-57
+31        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.RActivity" />
+31-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:26:9-60
+31-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:26:19-57
+32        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.QActivity" />
+32-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:27:9-60
+32-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:27:19-57
+33        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.PActivity" />
+33-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:28:9-60
+33-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:28:19-57
+34        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.OActivity" />
+34-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:29:9-60
+34-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:29:19-57
+35        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.NActivity" />
+35-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:30:9-60
+35-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:30:19-57
+36        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.MActivity" />
+36-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:31:9-60
+36-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:31:19-57
+37        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.LActivity" />
+37-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:32:9-60
+37-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:32:19-57
+38        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.KActivity" />
+38-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:33:9-60
+38-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:33:19-57
+39        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.JActivity" />
+39-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:34:9-60
+39-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:34:19-57
+40        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.IActivity" />
+40-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:35:9-60
+40-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:35:19-57
+41        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.HActivity" />
+41-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:36:9-60
+41-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:36:19-57
+42        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.GActivity" />
+42-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:37:9-60
+42-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:37:19-57
+43        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.FActivity" />
+43-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:38:9-60
+43-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:38:19-57
+44        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.EActivity" />
+44-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:39:9-60
+44-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:39:19-57
+45        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.DActivity" />
+45-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:40:9-60
+45-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:40:19-57
+46        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.CActivity" />
+46-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:41:9-60
+46-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:41:19-57
+47        <activity android:name="org.tensorflow.lite.examples.digitclassifier.all.activity.BActivity" />
+47-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:42:9-60
+47-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:42:19-57
+48        <activity android:name="org.tensorflow.lite.examples.digitclassifier.MainActivity" />
+48-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:43:9-50
+48-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:43:19-47
+49        <activity
+49-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:44:9-52:20
+50            android:name="org.tensorflow.lite.examples.digitclassifier.StartActivity"
+50-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:45:13-42
+51            android:exported="true"
+51-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:46:13-36
+52            android:theme="@style/Theme.AppCompat.NoActionBar" >
+52-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:47:13-63
+53            <intent-filter>
+53-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:48:13-51:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:49:17-69
+54-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:49:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:50:17-77
+56-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:50:27-74
+57            </intent-filter>
+58        </activity>
+59        <!-- <activity -->
+60        <!-- android:name=".all.activity.ZActivity" -->
+61        <!-- android:exported="true" -->
+62        <!-- android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"> -->
+63        <!-- <intent-filter> -->
+64        <!-- <action android:name="android.intent.action.MAIN" /> -->
+65
+66
+67        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+68        <!-- </intent-filter> -->
+69        <!-- </activity> -->
+70
+71        <meta-data
+71-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:64:9-66:57
+72            android:name="preloaded_fonts"
+72-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:65:13-43
+73            android:resource="@array/preloaded_fonts" />
+73-->C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:66:13-54
+74
+75        <activity
+75-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+76            android:name="com.divyanshu.draw.activity.DrawingActivity"
+76-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+77            android:theme="@style/Theme.AppCompat.NoActionBar" />
+77-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+78
+79        <meta-data
+79-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+80            android:name="com.google.android.gms.version"
+80-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+81            android:value="@integer/google_play_services_version" />
+81-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+82    </application>
+83
+84</manifest>

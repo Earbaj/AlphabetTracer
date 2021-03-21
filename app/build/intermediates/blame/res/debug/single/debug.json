@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_r.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\r.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\btrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ltrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ltrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_y.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custome_button.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\custome_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\vtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_r.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_k.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_k.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newu.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newu.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_y.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\y.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newn.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newn.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_speaker.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ytrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ytrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_j.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_j.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newg.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newg.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_backgroundmusic.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\backgroundmusic.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\itrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_c.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_speaker.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tfe_dc_activity_main.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\tfe_dc_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\strace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_j.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\j.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_z.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\z.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a.jpg.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_c.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\c.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_s.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\s.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_l.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_b.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_s.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_z.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_z.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_i.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_i.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_i.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\i.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ztrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ztrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newz.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newz.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newo.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newo.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_w.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\mtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\atrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_htrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\htrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_e.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_l.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\l.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_t.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_t.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alphabet.jpg.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\alphabet.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newl.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newl.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_startnum.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\startnum.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_h.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_h.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newi.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newi.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_q.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_q.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_a.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\a.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\xtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newt.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newt.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_x.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\x.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_layout.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_u.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\u.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_d.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\d.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ftrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ftrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_n.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newf.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newf.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_neww.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\neww.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_otrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\otrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\gtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newj.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newj.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_g.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_g.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newq.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newq.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_g.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\g.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bcopy.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\bcopy.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newc.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newc.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_v.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_v.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_o.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\o.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\dtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newx.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newx.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\qtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_v.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\v.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newr.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newr.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newk.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newk.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newy.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newy.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\jtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_f.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_f.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ttrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ttrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newd.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newd.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_m.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\m.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_speaker.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_speaker.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_f.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\f.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ctrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ctrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_w.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\w.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_p.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\p.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ktrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ktrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newa.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newa.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_projectanim.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\projectanim.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_activity_menu.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\news.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newh.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newh.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_p.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_t.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\t.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_speaker.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_b.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\b.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ptrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ptrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_e.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\e.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newe.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newe.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\rtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_m.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_m.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newv.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newv.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\utrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_q.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\q.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newb.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newb.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_x.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\etrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_spinner.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newp.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newp.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ntrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\ntrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_h.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\h.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_u.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_u.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_n.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\n.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newm.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\newm.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_d.xml.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\layout\\activity_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wtrace.gif.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\drawable\\wtrace.gif"
+    },
+    {
+        "merged": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_k.mp3.flat",
+        "source": "C:\\Users\\Earbaj\\Downloads\\Compressed\\examples-master\\lite\\examples\\digit_classifier\\android\\app\\src\\main\\res\\raw\\k.mp3"
+    }
+]

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#131418"
+    tools:context=".all.activity.LActivity">
+
+
+    <!--    <pl.droidsonroids.gif.GifImageView-->
+    <!--        android:id="@+id/gif_img_f"-->
+    <!--        android:layout_width="100dp"-->
+    <!--        android:layout_height="100dp"-->
+    <!--        android:src="@drawable/projectanim"-->
+    <!--        app:layout_constraintBottom_toBottomOf="@+id/draw_view"-->
+    <!--        app:layout_constraintEnd_toEndOf="@+id/img_va"-->
+    <!--        app:layout_constraintHorizontal_bias="0.105"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:layout_constraintVertical_bias="0.048" />-->
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/img_va"
+        android:layout_width="320dp"
+        android:layout_height="400dp"
+        android:scaleType="fitCenter"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.093" />
+
+    <EditText
+        android:id="@+id/et_class_tx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:visibility="invisible"
+        android:inputType="textPersonName"
+        android:hint="A-Z"
+        android:textColorHint="#BBDEFB"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_va"
+        app:layout_constraintVertical_bias="0.125" />
+
+    <ImageButton
+        android:visibility="invisible"
+        android:id="@+id/img_again"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="44dp"
+        android:background="#76608a"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_class_tx"
+        app:layout_constraintVertical_bias="0.156"
+        app:srcCompat="@android:drawable/ic_menu_revert" />
+
+    <ImageButton
+        android:id="@+id/img_next"
+        android:visibility="invisible"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="#2196F3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.854"
+        app:layout_constraintStart_toEndOf="@+id/btn_goto"
+        app:layout_constraintTop_toBottomOf="@+id/et_class_tx"
+        app:layout_constraintVertical_bias="0.151"
+        app:srcCompat="@android:drawable/ic_menu_send" />
+
+    <Button
+        android:id="@+id/btn_goto"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="GoTo"
+        android:textColor="#FFFF"
+        android:visibility="invisible"
+        android:background="#34465d"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/img_next"
+        app:layout_constraintHorizontal_bias="0.469"
+        app:layout_constraintStart_toEndOf="@+id/img_again"
+        app:layout_constraintTop_toBottomOf="@+id/et_class_tx"
+        app:layout_constraintVertical_bias="0.148" />
+
+    <com.divyanshu.draw.widget.DrawView
+        android:id="@+id/draw_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <!--  <TextView-->
+    <!--      android:id="@+id/predicted_text"-->
+    <!--      android:textStyle="bold"-->
+    <!--      android:layout_width="wrap_content"-->
+    <!--      android:layout_height="wrap_content"-->
+    <!--      android:text="@string/tfe_dc_prediction_text_placeholder"-->
+    <!--      android:textSize="20sp"-->
+    <!--      app:layout_constraintBottom_toTopOf="@id/clear_button"-->
+    <!--      app:layout_constraintLeft_toLeftOf="parent"-->
+    <!--      app:layout_constraintRight_toRightOf="parent"-->
+    <!--      app:layout_constraintTop_toBottomOf="@id/draw_view"/>-->
+
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gif_img_v"
+        android:layout_width="351dp"
+        android:layout_height="249dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_va"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/btn_ply_again"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff0084"
+        app:layout_constraintBottom_toBottomOf="@+id/draw_view"
+        app:layout_constraintEnd_toEndOf="@+id/img_va"
+        app:layout_constraintHorizontal_bias="0.931"
+        app:layout_constraintStart_toStartOf="@+id/img_va"
+        app:layout_constraintTop_toTopOf="@+id/img_va"
+        app:layout_constraintVertical_bias="0.048"
+        app:srcCompat="@mipmap/ic_speaker" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

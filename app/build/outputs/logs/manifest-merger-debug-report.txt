@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\d3817d856edaed1eb273b4734b5a2c14\jetified-android-gif-drawable-1.1.7\AndroidManifest.xml:2:1-10:12
+MERGED from [in.codeshuffle:typewriterview:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\67ae8ceef125919a91df69425c077872\jetified-typewriterview-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\19f17b09f9613e56f0d706047c02efca\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\01901e02b63cfe705ddb7473508bd23b\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c9040b469c0af6463c9e9208c4fdcb55\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1d99848b729965f88284c0cb46a6dc39\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\15b1b35accfd884244e5df7d9463a51b\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\519c8ff5516a226fe5e75293a896510f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4f68d27d4710f6a9e633d4283a059fdc\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\43cd6b0caab89d383439506a5f753b96\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\40c5ae5fdd785542dc2fadb9df417c38\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\a7c3b13d0130663788c5ef46b8f0a39d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c7daacdc039e872e541bd35adf1b29b4\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\a0e9b91ca139410df1305a725cbf05c5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\066ce5340baeabdd9e5e9f5be784e9de\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\170484cfd573d596ab0061e91922d1f8\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\0ffa28f513a80b0246a66d150b7c4e9d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4d319dc662a4552e78c3f3f8f580afb1\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\5e001298b031367c6ce5cf08849fb04c\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\703097e7b8038d971c28a58aff0d31b8\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\f5a895c64ef1416b3969ba167a5aa98c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\86c825aed5d038de51c79ddeb4f4b240\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\66be9804373bb4eea752ce4f30c5b4ed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\96d17a382270b712d667e9d8ceae39b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1f74f3e48928c8adf2e6b63d55a94661\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:4:5-59
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\d3817d856edaed1eb273b4734b5a2c14\jetified-android-gif-drawable-1.1.7\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\d3817d856edaed1eb273b4734b5a2c14\jetified-android-gif-drawable-1.1.7\AndroidManifest.xml:6:5-8:41
+MERGED from [in.codeshuffle:typewriterview:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\67ae8ceef125919a91df69425c077872\jetified-typewriterview-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [in.codeshuffle:typewriterview:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\67ae8ceef125919a91df69425c077872\jetified-typewriterview-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\19f17b09f9613e56f0d706047c02efca\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\19f17b09f9613e56f0d706047c02efca\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\01901e02b63cfe705ddb7473508bd23b\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\01901e02b63cfe705ddb7473508bd23b\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c9040b469c0af6463c9e9208c4fdcb55\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c9040b469c0af6463c9e9208c4fdcb55\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1d99848b729965f88284c0cb46a6dc39\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1d99848b729965f88284c0cb46a6dc39\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\15b1b35accfd884244e5df7d9463a51b\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\15b1b35accfd884244e5df7d9463a51b\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\519c8ff5516a226fe5e75293a896510f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\519c8ff5516a226fe5e75293a896510f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4f68d27d4710f6a9e633d4283a059fdc\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4f68d27d4710f6a9e633d4283a059fdc\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\43cd6b0caab89d383439506a5f753b96\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\43cd6b0caab89d383439506a5f753b96\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\40c5ae5fdd785542dc2fadb9df417c38\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\40c5ae5fdd785542dc2fadb9df417c38\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\a7c3b13d0130663788c5ef46b8f0a39d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\a7c3b13d0130663788c5ef46b8f0a39d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c7daacdc039e872e541bd35adf1b29b4\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c7daacdc039e872e541bd35adf1b29b4\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\a0e9b91ca139410df1305a725cbf05c5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\a0e9b91ca139410df1305a725cbf05c5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\066ce5340baeabdd9e5e9f5be784e9de\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\066ce5340baeabdd9e5e9f5be784e9de\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\170484cfd573d596ab0061e91922d1f8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\170484cfd573d596ab0061e91922d1f8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\0ffa28f513a80b0246a66d150b7c4e9d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\0ffa28f513a80b0246a66d150b7c4e9d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4d319dc662a4552e78c3f3f8f580afb1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4d319dc662a4552e78c3f3f8f580afb1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\5e001298b031367c6ce5cf08849fb04c\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\5e001298b031367c6ce5cf08849fb04c\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\703097e7b8038d971c28a58aff0d31b8\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\703097e7b8038d971c28a58aff0d31b8\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\f5a895c64ef1416b3969ba167a5aa98c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\f5a895c64ef1416b3969ba167a5aa98c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\86c825aed5d038de51c79ddeb4f4b240\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\86c825aed5d038de51c79ddeb4f4b240\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\66be9804373bb4eea752ce4f30c5b4ed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\66be9804373bb4eea752ce4f30c5b4ed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\96d17a382270b712d667e9d8ceae39b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\96d17a382270b712d667e9d8ceae39b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1f74f3e48928c8adf2e6b63d55a94661\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1f74f3e48928c8adf2e6b63d55a94661\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+	android:targetSdkVersion
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+		MERGED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:5-17
+		INJECTED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:10:5-67:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c9040b469c0af6463c9e9208c4fdcb55\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\c9040b469c0af6463c9e9208c4fdcb55\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1d99848b729965f88284c0cb46a6dc39\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\1d99848b729965f88284c0cb46a6dc39\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\15b1b35accfd884244e5df7d9463a51b\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\15b1b35accfd884244e5df7d9463a51b\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4d319dc662a4552e78c3f3f8f580afb1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\4d319dc662a4552e78c3f3f8f580afb1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\2171ea66d95c639155db404a111c9c4e\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:13:9-48
+	tools:ignore
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:16:9-56
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.ZActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:18:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.YActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:19:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.XActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:20:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.WActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:21:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.VActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:22:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.UActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:23:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.TActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:24:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.SActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:25:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.RActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:26:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.QActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:27:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:27:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.PActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:28:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.OActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:29:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:29:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.NActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:30:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:30:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.MActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:31:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.LActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:32:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.KActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:33:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.JActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:34:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:34:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.IActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:35:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.HActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:36:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:36:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.GActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:37:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:37:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.FActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:38:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.EActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:39:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:39:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.DActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:40:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.CActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:41:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:41:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.all.activity.BActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:42:9-60
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:42:19-57
+activity#org.tensorflow.lite.examples.digitclassifier.MainActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:43:19-47
+activity#org.tensorflow.lite.examples.digitclassifier.StartActivity
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:exported
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:46:13-36
+	android:theme
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:45:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:50:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:64:9-66:57
+	android:resource
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:66:13-54
+	android:name
+		ADDED from C:\Users\Earbaj\Downloads\Compressed\examples-master\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:65:13-43
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\11f50bd7eadd43139043b68458546e8c\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Earbaj\.gradle\caches\transforms-2\files-2.1\92b37adcbac7364f864002837338b87a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
